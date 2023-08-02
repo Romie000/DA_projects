@@ -1,2 +1,2 @@
 # DA_projects
-Some of my pet and educational projects in data analysis
+Some of my pet and educational data analytics projects
